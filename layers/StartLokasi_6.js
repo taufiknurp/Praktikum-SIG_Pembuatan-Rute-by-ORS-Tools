@@ -1,1 +1,0 @@
-var json_StartLokasi_6 = {"type":"FeatureCollection","name":"StartLokasi_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Lokasi":"Stasiun Kertosono","x":621423.8036,"y":9160660.355},"geometry":{"type":"Point","coordinates":[112.100724879530262,-7.591930156668357]}}]}
